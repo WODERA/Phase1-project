@@ -13,13 +13,13 @@ National Transportation Safety Board (NTSB) accident data (1962-2023)
 ## Analysis Approach
 
 ### Data Wrangling
-    * Import data using Pandas
-    * Address missing values
-    * Identify and address potential outliers and inconsistencies
-    * Select revelant features:- 
-        - Aircraft Model and Type
-        - Accident or Incident Type
-        - Fatalities or Injuries 
+* Import data using Pandas
+* Address missing values
+* Identify and address potential outliers and inconsistencies
+* Select revelant features:- 
+   - Aircraft Model and Type
+   - Accident or Incident Type
+   - Fatalities or Injuries 
               
 ### Data Analysis
 * Accident Injury severity: Analyze distribution of accidents by servity for each model
