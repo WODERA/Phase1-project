@@ -24,23 +24,24 @@ National Transportation Safety Board (NTSB) accident data (1962-2023)
 ### Data Analysis
 * Accident Injury severity: Analyze distribution of accidents by servity for each model
 * Visualiztion:
-      - Bar charts comparing accidents cross models
-      - Bar charts comparing injury severity for the aircraft makes and models
+      - Bar charts comparing accidents count cross models
+      - Bar charts and Hit Maps comparing injury severity for the aircraft makes and models
 
 ## Deliverables:
 
 * Report on aircraft models with their severity distribution.
-* Actionable recommendations for the aviation division head, with recommendations to consider additional information:
-* Safety data insights
-      - Operational needs (flight range, capacity, fuel efficiency)
-      - Manufacturer reputation and maintenance requirements
+* Actionable recommendations for the aviation division head, with recommendations to consider additional information such as:
+     - Safety data insights
+     - Operational needs (flight range, capacity, fuel efficiency)
+     - Manufacturer reputation and maintenance requirements
     
 ## Limitations:
-NTSB data may not vbe sufficient to give complete recommendations. Factors beyond accident data e.g aircraft maintainnce history,saftey record of specific airline, fuel efficiency, opertional costs, passenger capacity need to be considered
-Accident rates are historical and might not predict future risk for newer models.
+* NTSB data may not vbe sufficient to give complete recommendations. Factors beyond accident data e.g aircraft maintainnce history,saftey record of specific airline, fuel efficiency, opertional costs, passenger capacity need to be considered
+* The data is historical and might not predict future risk for newer models.
 
 # Next Steps:
 Depending on data availability, refine analysis by:
 * Including flight hours for accident rate calculations.
 * Analyzing contributing factors to accidents for each model by exploring additional resources such as Manufacturer safety data and reports.
+* Include pilot experience and training in the aviation accident data
 
