@@ -1,4 +1,4 @@
-# Phase1-project
+#  Analyzing Aviation Accident Data for Risk Assessment
 ## Project Overview:
 
 This analysis aims to identify low-risk aircraft for a company venturing into the commercial and private aviation industry. In order to ensure a successful entry into this market, it is crucial to identify the aircraft with the lowest risk. The National Transportation Safety Board (NTSB) accident data (1962-2023) will be used to assess the risk profiles of various aircraft models.
