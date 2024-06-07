@@ -45,5 +45,5 @@ Depending on data availability, refine analysis by:
 * Analyzing contributing factors to accidents for each model by exploring additional resources such as Manufacturer safety data and reports.
 * Include pilot experience and training in the aviation accident data
 
-<a "https://public.tableau.com/app/profile/wilbroda.odera/viz/AviationAccidentAnalysis_17177485953030/AviationAccidentAnalysis?publish=yes"> Click here to view the dashboard</a>
+<Click here to view the dashboard "https://public.tableau.com/app/profile/wilbroda.odera/viz/AviationAccidentAnalysis_17177485953030/AviationAccidentAnalysis?publish=yes"> </a>
 
